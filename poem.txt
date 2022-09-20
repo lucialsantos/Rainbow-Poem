@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 red
 Blue
@@ -6,3 +6,4 @@ Pink
 Yellow
 Green
 These are the colors
+And the unicorn
